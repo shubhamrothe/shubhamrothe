@@ -1,6 +1,5 @@
 # 💫 About Me:
-Banking domain Projects
-
+Hi, I'm Shubham Rothe, a Java Developer with experience working on projects in the banking domain.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rothe.shubham0607@gmail.com) 
